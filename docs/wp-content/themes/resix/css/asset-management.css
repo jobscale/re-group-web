@@ -1,0 +1,316 @@
+.page-content {
+	/*font-family: 'Noto Serif JP', serif;*/
+	font-family: "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	/*letter-spacing: 0.08em;
+    line-height: 1.71;*/
+	font-weight: 600;
+}
+.text-highlight-green {
+	color: #00503c;
+}
+
+/*
+ * section01
+ */
+.section01 {
+  background-color: #DCECEC;
+}
+.section01 .title {
+	text-align:center;
+	font-size:2rem;
+	padding-top:20px;padding-bottom:15px;
+}
+.section01 .item-list {
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap
+		
+}
+.section01 .item-list .item {
+	width: 360px;
+  margin: 10px;
+  background-color: white;
+}
+.section01 .item-list .item .item-head {
+		display:flex;
+	flex-wrap: nowrap;
+	padding:20px;
+}
+.section01 .item-list .item .item-head .item-image {
+
+}
+.section01 .item-list .item .item-head .item-image img {
+    width:90px;
+}
+.section01 .item-list .item .item-head .item-title {
+	word-break: break-all;
+	padding:10px;
+}
+.section01 .item-list .item .item-head .item-title .customers-name {
+	font-size:2rem;
+	padding-bottom:10px;
+}
+.section01 .item-list .item .item-text {
+	word-break: break-all;
+	padding:20px;
+}
+.section01 .item-list .item .item-text .comment-highlight {
+	font-size:1.3rem;
+}
+.section01 .item-list .item .item-text .comment {
+	font-weight: 400;
+    line-height: 1.93;
+    font-family: "Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+
+/*
+ * section02
+ */
+.section02 {
+   background: url('https://resix.co.jp/wp-content/uploads/2021/04/ac-illust.com_.2054324.jpg') no-repeat left top / cover;
+	text-align: center;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.section02 .section-title {
+	font-size:1.3rem;
+	letter-spacing: 0.1em;
+	line-height: 3;
+		text-shadow:
+            3px 3px 3px white, -3px -3px 3px white,
+           -3px 3px 3px white,  3px -3px 3px white;
+	padding-bottom:20px;
+}
+.section02 .section-title .section-title-highlight {
+	font-size:1.5rem;
+}
+.section02 .item-list {
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap
+		
+}
+.section02 .item-list .item {
+	width: 250px;
+  margin: 10px;
+  background-color: white;
+}
+.section02 .item-list .item .head{
+	text-align:right;
+	padding-top:10px;
+	padding-right:15px;
+	padding-bottom:5px;
+	font-weight: 400;
+}
+.section02 .item-list .item .head span {
+	font-size:1.8rem;
+	margin-left: 5px;
+    vertical-align: -5px;
+}
+.section02 .item-list .item .item-thumbnail img {
+  width: 100%;
+	padding-right:15px;
+}
+.section02 .item-list .item .title {
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:1.2rem;
+	text-align: center;
+}
+.section02 .item-list .item .title span {
+	font-size:1.3rem;
+}
+.section02 .item-list .item .text {
+	text-align: left;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	font-weight:200;
+}
+
+
+/*
+ * section 03
+ */
+.section03 {
+	 /*padding: 42px 0 92px;*/
+    background-color: #f0f8ff;
+	text-align: center;
+	padding-top:30px;
+	padding-bottom:50px;
+	letter-spacing: 0.08em;
+} 
+.section03 .section-title {
+	font-size:1.3rem;
+	
+	padding-bottom:15px;
+}
+.section03 .section-title span {
+	font-size:1.8rem;
+}
+.section03 .item-list {
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap
+	
+}
+.section03 .item-list .item {
+	width: 250px;
+  margin: 10px;
+  background-color: white;
+	align-items:stretch;
+	padding:10px;
+}
+.section03 .item-list .item .item-thumbnail img {
+  width: 100%;
+}
+.section03 .item-list .item .item-text {
+	text-align: center;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+}
+.section03 .item-list .item .title {
+	font-size:1.2rem;
+	padding-bottom:5px;
+}
+.section03 .item-list .item .title .text-highlight-green {
+	font-size:1.5rem;
+}
+.section03 .item-list .item .text {
+	font-weight: 400;
+    line-height: 1.43;
+    font-family: "Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+
+
+
+/*
+ * section 04
+ */
+.section04 {
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:50px;
+} 
+.section04 .item-list {
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap
+	
+}
+.section04 .item-list .item {
+	width: 250px;
+  /*height: 200px;*/
+  margin: 10px;
+	align-items:stretch;
+	padding:0px;
+	position: relative;
+}
+.section04 .item-list .item .item-image img {
+  width: 100%;
+  /*height: 40%;*/
+}
+.section04 .item-list .item .item-title {
+	position:absolute;
+	top: 50%;
+         left: 50%;
+    -ms-transform: translate(-50%, -50%); /* 追記 */
+    -webkit-transform: translate(-50%, -50%); /* 追記 */
+    transform: translate(-50%, -50%); /* 追記 */
+	width:100%;
+	
+	text-shadow:
+            3px 3px 3px white, -3px -3px 3px white,
+           -3px 3px 3px white,  3px -3px 3px white;
+	
+}
+.section04 .item-list .item .item-title .title-text {
+	padding-top:10px;
+	line-height: 1em;
+	font-size:1.3rem;
+}
+.section04 .item-list .item .item-title .no1 {
+	font-size:5rem;
+	line-height: 1.2em;
+	padding-top:0px;
+}
+.section04 .item-list .item .item-title .memo {
+	font-size:0.6rem;
+}
+
+
+/*
+ * section 05
+ */
+.section05 {
+	
+	padding-bottom:30px;
+	
+} 
+.section05 .section-header {
+	/*font-size:1.1rem;*/
+	text-align: right;
+}
+.section05 .section-footer {
+	padding:15px;
+	padding-bottom:30px;
+	text-align: center;
+	color:white;
+	background: linear-gradient(to top, transparent 0%, #00503c 20%);
+}
+.section05 .section-footer span {
+	font-size:1.2rem;
+}
+.section05 .page-theme {
+	text-align: left;
+	font-size:1.5rem;
+	color:black;
+	padding-left:20px;
+	padding-top:100px;
+	padding-bottom:200px;
+	
+	 
+	    background: linear-gradient(to left, transparent 0%, #fff 70%),url(https://resix.co.jp/wp-content/uploads/2021/04/photo-ac.com_.501178_s.jpg)no-repeat right top / cover;
+	/*	    background: linear-gradient(to bottom, rgba(217, 175, 217, 0.7) 0%, rgba(151, 217, 225, 0.7) 100%),url(http://resixcojp.local/wp-content/uploads/2021/04/photo-ac.com_.501178_s.jpg);*/
+	/*background: url(' http://resixcojp.local/wp-content/uploads/2021/04/photo-ac.com_.501178_s.jpg') no-repeat left top / cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-size: 70% auto;*/
+}
+
+
+
+/*
+ *  section 06
+ */
+.section06 {
+	padding-top:30px;
+	padding-bottom:50px;
+	text-align: center;
+}
+.section06 .resix-services-title {
+	padding-top:30px;
+	padding-bottom:30px;
+	font-size:1.4rem;
+			text-shadow:
+            2px 2px 2px #dcdcdc, -2px -2px 2px #dcdcdc,
+           -2px 2px 2px #dcdcdc,  2px -2px 2px #dcdcdc;
+}
+.section06 .resix-services {
+	padding-top:15px;
+	padding-bottom:15px;
+}
+.section06 .resix-services .item-title {
+	font-size:1.2rem;
+}
+.section06 .resix-services .item-title span {
+	font-size:1.4rem;
+	font-weight:600;
+}
+.section06 .resix-services .item-comment {
+	font-size:1rem;
+}

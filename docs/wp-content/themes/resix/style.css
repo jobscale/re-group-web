@@ -1,0 +1,945 @@
+/*
+  Theme Name: RESIX
+  Theme URI: http://
+  Description: 
+  Version: 1.0.0
+  Author: マックス・クリエーション株式会社
+  Author URI: http://max-creation.co.jp/
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+body {
+  line-height: 1;
+  color: #000;
+  background: #fff;
+}
+ol,
+ul {
+  list-style: none;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+caption,
+th,
+td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+a img {
+  border: none;
+}
+@media (min-width: 0px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
+@media (min-width: 768px) {
+  .desktop {
+    display: block;
+  }
+  .mobile {
+    display: none;
+  }
+}
+.mobile {
+  padding: 15px;
+}
+.mobile img.full {
+  width: 100%;
+}
+.mobile .row {
+  text-align: center;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.5;
+}
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Meiryo", "メイリオ", "Osaka", "MS PGothic", arial, helvetica, sans-serif;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg.png") no-repeat left;
+  -webkit-background-size: 8000px 100%;
+  -moz-background-size: 8000px 100%;
+  background-size: 8000px 100%;
+}
+body.page-id-10 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit-bg.jpg") no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+}
+body.sub {
+  height: auto;
+}
+strong {
+  font-weight: bold;
+}
+a {
+  color: #333;
+}
+.wrapper {
+  background: #fff;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+body.page-template-template-recruit2 p,
+body.page-template-template-recruit-sub p,
+body.page-template-template-recruit-sub-pink p {
+  font-size: 17px;
+  line-height: 1.8em;
+  font-weight: bold;
+  letter-spacing: 1.6px;
+}
+body.page-template-template-recruit2 p.center,
+body.page-template-template-recruit-sub p.center,
+body.page-template-template-recruit-sub-pink p.center {
+  text-align: center;
+}
+body.page-template-template-recruit2 .wrapper,
+body.page-template-template-recruit-sub .wrapper,
+body.page-template-template-recruit-sub-pink .wrapper {
+  background: none !important;
+}
+@media (min-width: 0px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
+@media (min-width: 768px) {
+  .desktop {
+    display: block;
+  }
+  .mobile {
+    display: none;
+  }
+}
+@media (min-width: 0px) {
+  header {
+    background: #fff;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    border-bottom: 1px solid #ddd;
+    zoom: 1;
+  }
+  header:before,
+  header:after {
+    content: "";
+    display: table;
+  }
+  header:after {
+    clear: both;
+  }
+  header #site-id {
+    text-align: center;
+  }
+  header #site-id a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    padding: 5px 0 0 10px;
+  }
+  header #site-id a img {
+    width: 160px;
+  }
+  header #site-id a span {
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 15px;
+    font-style: italic;
+    color: #666;
+  }
+}
+@media (min-width: 768px) {
+  header {
+    background-image: url("https://resix.co.jp/wp-content/themes/resix/images/header-building.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    padding: 30px;
+    border-bottom: 1px solid #ddd;
+    zoom: 1;
+  }
+  header:before,
+  header:after {
+    content: "";
+    display: table;
+  }
+  header:after {
+    clear: both;
+  }
+  header #site-id {
+    float: left;
+  }
+  header #site-id a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    padding: 0 15px;
+  }
+  header #site-id a img {
+    height: 3em;
+    width: auto;
+  }
+  header #site-id a span {
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 15px;
+    font-style: italic;
+    color: #666;
+  }
+  header ul.main-menu {
+    float: right;
+  }
+}
+@media (min-width: 0px) {
+  ul.main-menu {
+    margin-top: 10px;
+  }
+  ul.main-menu li {
+    display: block;
+    text-align: center;
+  }
+  ul.main-menu li a {
+    color: #0c143f;
+    text-decoration: none;
+    font-size: 13px;
+    display: block;
+    padding: 0.5em 0;
+    border-bottom: 1px solid #e5e5e5;
+    font-weight: bold;
+  }
+  ul.main-menu li a:hover {
+    color: #dd370a;
+  }
+}
+@media (min-width: 768px) {
+  ul.main-menu {
+    text-align: right;
+    margin-top: 0;
+  }
+  ul.main-menu li {
+    display: inline-block;
+    padding: 26px 0;
+  }
+  ul.main-menu li a {
+    color: #0c143f;
+    text-decoration: none;
+    font-size: 13px;
+    display: block;
+    padding: 0 1.75em;
+    border-bottom: 0;
+    border-right: 1px solid #e5e5e5;
+    font-weight: bold;
+  }
+  ul.main-menu li:last-child a {
+    border-right: none;
+  }
+}
+@media (min-width: 0px) {
+  main {
+    /*min-height: 360px;*/
+  }
+  main .catch {
+    margin: auto;
+    text-align: center;
+  }
+  main .catch h1 {
+    margin-top: -30px;
+    text-shadow: 0px 2px 2px rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 27px;
+    text-align: center;
+    line-height: 1.5em;
+  }
+  main .catch h3 {
+    color: #e5e5e5;
+    text-shadow: 0px 2px 2px rgba(0,0,0,0.5);
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.5em;
+    font-weight: bold;
+  }
+  main .image-links {
+    margin-top: 30px;
+  }
+  main .image-links a {
+    display: inline-block;
+    min-height: 180px;
+    width: 180px;
+    background: #fff;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  main .image-links a:first-child {
+    margin-right: 180px;
+  }
+  main .image-links a img {
+    display: block;
+    width: 100%;
+  }
+  main .image-links a span {
+    display: block;
+    padding: 10px;
+    background: #0c143f;
+  }
+}
+@media (min-width: 768px) {
+  .page-id-6 header .main-menu {
+    display: block;
+  }
+  main .catch {
+    margin: auto;
+    text-align: center;
+  }
+  main .catch h1 {
+    margin-top: -30px;
+    text-shadow: 0px 2px 2px rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 27px;
+    text-align: center;
+    line-height: 1.5em;
+  }
+  main .catch h3 {
+    color: #e5e5e5;
+    text-shadow: 0px 2px 2px rgba(0,0,0,0.5);
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.5em;
+    font-weight: bold;
+  }
+  main .image-links {
+    margin-top: 30px;
+  }
+  main .image-links a {
+    display: inline-block;
+    min-height: 180px;
+    width: 180px;
+    background: #fff;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  main .image-links a:first-child {
+    margin-right: 180px;
+  }
+  main .image-links a img {
+    display: block;
+    width: 100%;
+  }
+  main .image-links a span {
+    display: block;
+    padding: 10px;
+    background: #0c143f;
+  }
+}
+@media (min-width: 0px) {
+  .blog-list-item {
+    margin: 40px 0;
+  }
+  .blog-list-item h3 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0.75em;
+  }
+  .blog-list-item p {
+    font-size: 14px;
+    line-height: 1.5em;
+  }
+  .blog-list-item .inner {
+    padding: 30px 40px;
+    background: #fff;
+  }
+  .sub-content {
+    width: 100%;
+  }
+  .page-title {
+    background: url("https://resix.co.jp/wp-content/themes/resix/images/page-title-bg.png") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    padding: 2em;
+    border-bottom: 1px solid #ccc;
+  }
+  .page-title h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #444;
+  }
+  .inner {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .page-content h3 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0.75em;
+  }
+  .page-content .inner {
+    background: #fff;
+    padding: 40px;
+  }
+  .page-content .inner p {
+    line-height: 1.5em;
+  }
+  .page-content .inner.no-side-padding {
+    padding: 40px 0;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background: #fff;
+  }
+  table th,
+  table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    line-height: 1.5em;
+  }
+  table th {
+    background: #f5f5f5;
+    font-weight: bold;
+    width: 20%;
+  }
+}
+@media (min-width: 768px) {
+  .sub-content {
+    width: 100%;
+  }
+  .page-title {
+    background: url("https://resix.co.jp/wp-content/themes/resix/images/page-title-bg.png") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    padding: 5em 0;
+    border-bottom: 1px solid #ccc;
+  }
+  .page-title h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #444;
+  }
+  .inner {
+    width: 960px;
+    margin: 0 auto;
+  }
+  .page-content {
+    margin-top: 40px;
+    padding-bottom: 230px;
+  }
+  .page-content h3 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0.75em;
+  }
+  .page-content .inner {
+    background: #fff;
+    padding: 40px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background: #fff;
+  }
+  table th,
+  table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    line-height: 1.5em;
+  }
+  table th {
+    background: #f5f5f5;
+    font-weight: bold;
+    width: 20%;
+  }
+}
+@media (min-width: 0px) {
+  footer {
+    width: 100%;
+    background: #fff;
+  }
+  footer .row {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #222;
+    padding: 30px;
+    zoom: 1;
+  }
+  footer .row:before,
+  footer .row:after {
+    content: "";
+    display: table;
+  }
+  footer .row:after {
+    clear: both;
+  }
+  footer .row h1 {
+    text-align: center;
+    color: #0c143f;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  footer .row p.footer-catch {
+    margin-top: 2em;
+    font-size: 18px;
+    line-height: 1.25em;
+    margin-bottom: 5em;
+  }
+  footer .row p {
+    text-align: center;
+    font-size: 14px;
+  }
+  footer #bottom {
+    border-top: 1px solid #333;
+    clear: both;
+    background: #090f2e;
+  }
+  footer #bottom p {
+    text-align: center;
+    line-height: 1.75em;
+    color: #ddd;
+    padding: 7px 0;
+  }
+}
+@media (min-width: 768px) {
+  footer {
+    width: 100%;
+  }
+  footer .row {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #222;
+    padding: 30px;
+    zoom: 1;
+  }
+  footer .row:before,
+  footer .row:after {
+    content: "";
+    display: table;
+  }
+  footer .row:after {
+    clear: both;
+  }
+  footer #bottom {
+    border-top: 1px solid #333;
+    clear: both;
+    background: #090f2e;
+  }
+  footer #bottom p {
+    text-align: center;
+    line-height: 1.75em;
+    color: #ddd;
+    padding: 7px 0;
+  }
+}
+.mobile p {
+  padding: 0 2em;
+}
+.mobile a.mobile-read-more {
+  margin-left: 2em;
+}
+.recruit a {
+  display: inline-block;
+  margin-top: 25px;
+}
+.recruit.mobile img {
+  width: 100%;
+  display: block;
+}
+.recruit * {
+  color: #555;
+}
+.recruit p {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 2em !important;
+}
+.recruit p.top-message {
+  padding: 0 40px;
+}
+.recruit p.bigger {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 2em;
+}
+.recruit-01 {
+  min-height: 710px;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit-bg-01.jpg") no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  position: relative;
+}
+.recruit-01 .recruit-01-inner-01 {
+  position: absolute;
+  top: 95px;
+  left: 370px;
+  padding-right: 2em;
+}
+.recruit-01 .recruit-01-inner-02 {
+  position: absolute;
+  top: 510px;
+  left: 400px;
+}
+.recruit-01 .recruit-01-inner-02 p {
+  padding-right: 1em;
+}
+.recruit-02 {
+  min-height: 658px;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit-bg-02.jpg") no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  position: relative;
+}
+.recruit-02 .recruit-02-inner-01 {
+  position: absolute;
+  top: 390px;
+  left: 180px;
+}
+.recruit-02 .recruit-02-inner-01 p {
+  width: 450px;
+}
+.recruit-03 {
+  min-height: 511px;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit-bg-03.jpg") no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  position: relative;
+}
+.recruit-03 .recruit-03-inner-01 {
+  position: absolute;
+  top: 260px;
+  left: 460px;
+}
+.recruit-03 .recruit-03-inner-01 p {
+  padding-right: 1em;
+}
+.recruit-04 {
+  min-height: 539px;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit-bg-04.jpg") no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  position: relative;
+}
+.recruit-04 .recruit-04-inner-01 {
+  position: absolute;
+  top: 220px;
+  left: 140px;
+}
+.recruit-04 .recruit-04-inner-01 p {
+  width: 434px;
+}
+.recruit-05 {
+  min-height: 499px;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit-bg-05.jpg") no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  position: relative;
+}
+.recruit-05 .recruit-05-inner-01 {
+  position: absolute;
+  top: 220px;
+  left: 440px;
+}
+.recruit-05 .recruit-05-inner-01 p {
+  padding-right: 1em;
+}
+.slidebutton {
+  display: inline-block;
+  text-decoration: none;
+  background: #0c143f;
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
+  padding: 10px 20px;
+  line-height: 1em;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  border: 1px solid #e5e5e5;
+  padding: 5px;
+  line-height: 1.5em;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 15px;
+  background: #fff;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  -webkit-box-shadow: 0;
+  box-shadow: 0;
+  width: 100%;
+  vertical-align: middle;
+}
+
+/*added for tel*/
+/*
+input[name="tel-503"] {
+  border: 1px solid #e5e5e5;
+  padding: 5px;
+  line-height: 1.5em;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 15px;
+  background: #fff;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  -webkit-box-shadow: 0;
+  box-shadow: 0;
+  width: 100%;
+  vertical-align: middle;
+}
+*/
+.entry-item {
+  margin-bottom: 20px;
+}
+.entry-item h3 a {
+  color: #333;
+  text-decoration: none;
+}
+.entry-item h3 a:hover {
+  color: #0c143f;
+  text-decoration: underline;
+}
+.entry-item a.readmore {
+  background: #0c143f;
+  display: inline-block;
+  margin-top: 1em;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+.entry-item a.readmore:hover {
+  opacity: 0.8;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80);
+}
+.entry-content-header {
+  border-bottom: 1px solid #ddd;
+}
+.entry-content-header h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+.entry-content-header .meta span {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 12px;
+  color: #999;
+}
+.entry-content *:first-child {
+  margin-top: 0;
+}
+.entry-content p {
+  margin: 1em 0;
+  font-size: 14px;
+  line-height: 2em !important;
+  color: #555;
+}
+.entry-content h3,
+.entry-content h4,
+.entry-content h5 {
+  margin-top: 3em;
+}
+.entry-content h4 {
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+.entry-content h5 {
+  font-weight: bold;
+  color: #0c143f;
+}
+.image1 {
+  margin-bottom: 40px;
+}
+.bg1 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg1.png") no-repeat;
+  height: 611px;
+  padding: 310px 150px 0 20px;
+  margin-bottom: 30px;
+}
+.bg2 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg2.png") no-repeat;
+  height: 699px;
+  padding: 300px 0 0 495px;
+  margin-bottom: 30px;
+}
+.bg3 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg3.png") no-repeat;
+  height: 613px;
+  padding: 290px 190px 0 20px;
+  margin-bottom: 100px;
+}
+.bg4 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg4.png") no-repeat;
+  height: 644px;
+  padding-left: 280px;
+  padding-top: 300px;
+}
+body.page-template-template-recruit-sub,
+body.page-template-template-recruit-sub-pink {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg2-2.png") repeat-x top #d5f4fd;
+}
+body.page-template-template-recruit-sub .sub-inner p,
+body.page-template-template-recruit-sub-pink .sub-inner p {
+  font-size: 14px;
+  font-weight: normal;
+  display: inline-block;
+  width: 630px;
+  padding: 20px 30px;
+  background-color: #fff;
+  color: #45a5d3;
+  text-align: justify;
+}
+body.page-template-template-recruit-sub .sub-inner h4,
+body.page-template-template-recruit-sub-pink .sub-inner h4 {
+  font-size: 23px;
+  letter-spacing: 2px;
+  padding: 15px;
+  background-color: #fff;
+  width: 360px;
+  text-align: center;
+  color: #45a5d3;
+}
+body.page-template-template-recruit-sub-pink {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/bg2-3.png") repeat-x top #ffe7f1;
+}
+body.page-template-template-recruit-sub-pink .container p,
+body.page-template-template-recruit-sub-pink .container h4 {
+  color: #ecbdc7 !important;
+}
+.sub1-bg1 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-1.png") no-repeat;
+  height: 987px;
+  padding-top: 360px;
+  margin-bottom: -200px;
+}
+.sub1-bg2 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-1-2.png") no-repeat;
+  -webkit-background-size: 400px 653px;
+  -moz-background-size: 400px 653px;
+  background-size: 400px 653px;
+  height: 653px;
+  padding: 107px 0 0 310px;
+}
+.sub2-bg1 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-2.png") no-repeat;
+  height: 987px;
+  padding-top: 360px;
+  margin-bottom: -200px;
+}
+.sub2-bg2 {
+  height: 840px;
+  padding: 107px 0 0 310px;
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-2-2.png") no-repeat;
+}
+.sub3-bg1 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-3.png") no-repeat;
+  height: 987px;
+  padding-top: 360px;
+  margin-bottom: -200px;
+}
+.sub3-bg2 {
+ background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-3-2.png") no-repeat;
+  height: 643px;
+  padding: 107px 0 0 310px;
+}
+.sub4-bg1 {
+  background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-4.png") no-repeat;
+  height: 977px;
+  padding-top: 360px;
+  margin-bottom: -200px;
+}
+.sub4-bg2 {
+ background: url("https://resix.co.jp/wp-content/themes/resix/images/recruit/recruit-sub-4-2.png") no-repeat;
+  height: 623px;
+  padding: 107px 0 0 310px;
+}
