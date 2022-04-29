@@ -6451,10 +6451,10 @@
     .sd[data-s-d758be33-70c12f0-a582-e63ca2c47200] {
       background: #222222;
       flex: none;
-      height: 160px;
       padding: 20px 20px 20px 20px;
-      width: 424px;
       color: white;
+      height: 11rem;
+      width: 16rem;
     }
 
     .sd[data-s-d758be33-70c12f0-a582-e63ca2c47200]:before {
@@ -7782,6 +7782,13 @@
         max-width: 100%;
       }
     }
+
+    #hero {
+      background-image: url(wp-content/themes/docs/HOS_854_TP_V.jpg);
+      background-position: center;
+      background-size: 100% auto;
+      height: 29rem;
+    }
   </style>
 </head>
 
@@ -7804,7 +7811,7 @@
                 data-r-0_0_a1197e6a-a232b7f-a70362e5c2deb0f_d758be33-70c12f0-a582-e63ca2c47200="" class="image sd">
                 <style>
                   .sd[data-r-0_0_a1197e6a-a232b7f-a70362e5c2deb0f_d758be33-70c12f0-a582-e63ca2c47200]:before {
-                    background-image: url("wp-content/themes/docs/15932522181310.png")
+                    background-image: url("wp-content/themes/docs/logo.png")
                   }
                 </style>
               </a>
@@ -7846,34 +7853,34 @@
                 class="text sd">Services</p>
               <div data-s-d8061354c8bbfa-bde7-a8d1600a0bba="" class="sd"></div>
               <div data-s-032f3c25-543ed83-84db-196f8d017824="" class="sd">
-                <a href="https://REPARK.com/" rel="noopener" target="_blank"
+                <span href="https://REPARK.com/" rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">ITサービス事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">CTIシステム開発・運用・販売</p>
-                </a>
-                <a href="https://REPARK.com/" rel="noopener" target="_blank"
+                </span>
+                <span href="https://REPARK.com/" rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">アウトソーシング<br>支援事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">業務請負・企業支援事業</p>
-                </a>
-                <a href="https://REPARK.com/" rel="noopener" target="_blank"
+                </span>
+                <span href="https://REPARK.com/" rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">資産再生事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">中古資産再生・土地活用運営</p>
-                </a>
-                <a href="https://REPARK.com/" rel="noopener" target="_blank"
+                </span>
+                <span href="https://REPARK.com/" rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">Web デザイン<br>制作事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">ブランド開発・商品開発・運営指導</p>
-                </a>
+              </span>
               </div>
             </section>
 
@@ -7937,7 +7944,7 @@
                   </div>
                   <div data-s-f5641eca-b3b175e-988a-365eb40e8b0d="" class="sd">
                     <p data-s-3dd30c410a3e59-9079-2e3ca4965aaf="" data-r-0_1_4_2_6_3dd30c410a3e59-9079-2e3ca4965aaf=""
-                      class="text sd">CEO（Chief Executive Officer）Sumi Yuya</p>
+                      class="text sd">CEO（Chief Executive Officer）<img src="wp-content/themes/docs/ceo.png"></p>
                     <div data-s-a45c1889-1d93212-98a8-28db113c0e45="" class="sd"></div>
                   </div>
                 </div>
@@ -7975,21 +7982,12 @@
               <div data-s-96a5f069-d461d5d-a2c7-c8d18aa056a8="" class="sd"></div>
               <div data-s-a2886935-76c7e8a-9379-eab8ac26a4dd="" class="sd">
                 <div data-s-c6fadea2-bcf3a21-9420-56a7917d7832="" class="sd">
-                  <div data-s-f71a2b2d-c5923bf-8407-ff281710dadf="" class="sd">
-                    <p data-s-79a9ac07-793270f-a1df-0298676d418c=""
-                      data-r-0_0_0_2_4_79a9ac07-793270f-a1df-0298676d418c="" class="text sd">
-                      経済情報の力で、<br>誰もがビジネスを<br>楽しめる世界をつくる</p>
-                    <p data-s-9f546023-2638c11-8086-30e031686ac5=""
-                      data-r-1_0_0_2_4_9f546023-2638c11-8086-30e031686ac5="" class="text sd">
-                      新しい才能と強いWillを持った皆さんと<br>一緒に働けることを楽しみにしています。</p>
-                  </div>
-                  <div data-s-9e556277-e4a5bb2-bdc2-5ee2a4dc6ed5="" data-r-1_0_2_4_9e556277-e4a5bb2-bdc2-5ee2a4dc6ed5=""
-                    class="image sd">
-                    <style></style>
-                  </div>
-                </div>
-                <a href="/recruit" data-s-0494543e-686d797-95e4-f01f828c86fc=""
-                  data-r-1_2_4_0494543e-686d797-95e4-f01f828c86fc="" class="text link sd">Read More</a>
+                  <p data-s-79a9ac07-793270f-a1df-0298676d418c=""
+                  data-r-0_0_0_2_4_79a9ac07-793270f-a1df-0298676d418c="" class="text sd">
+                  人の価値とは、
+                  <br>その人が得たものではなく、その人が与えたもので測られる。
+                  <br>-　アルベルト・アインシュタイン　-
+                </p>
               </div>
             </section>
 
@@ -8000,25 +7998,9 @@
               <div data-s-fa055e5a-85ed4cc-8c4c00dd14c52e1="" class="sd">
                 <div data-s-852a01c0-921f489-b332-daa6747d6199="" class="sd">
                   <p data-s-a220297a-a37d2ee-a7ff-330be4474697="" data-r-0_0_2_7_a220297a-a37d2ee-a7ff-330be4474697=""
-                    class="text sd">サービスについての<br>お問い合わせ</p><a href="https://REPARK.zendesk.com/hc/ja" rel="noopener"
+                    class="text sd">サービスについての<br>お問い合わせ</p><a href="mailto:info@re-group.co.jp" rel="noopener"
                     target="_blank" data-s-eb2b3544-666be3f-a710-337dd1753462=""
                     data-r-1_0_2_7_eb2b3544-666be3f-a710-337dd1753462="" class="text sd">REPARKヘルプセンターへ</a>
-                </div>
-                <div data-s-6acb23b5-e8f6690-8279-a2495fd4a350="" class="sd">
-                  <p data-s-b9934db4-a83c433-9299-8507bde3bc2d="" data-r-0_1_2_7_b9934db4-a83c433-9299-8507bde3bc2d=""
-                    class="text sd">REPARK Brand
-                    Designへの<br>お問い合わせ</p>
-                  <a href="https://branddesign.REPARK.com/contact/" rel="noopener" target="_blank"
-                    data-s-a17bc62a-5810da2-be1d-aa90af97f10b="" data-r-1_1_2_7_a17bc62a-5810da2-be1d-aa90af97f10b=""
-                    class="text sd">お問い合わせはこちら</a>
-                </div>
-                <div data-s-824e8a75-00e5ac1-8731-55405d2cfa04="" class="sd">
-                  <p data-s-79eb6af6-1ce4a2d-a3f9-cc6c81cd8b35="" data-r-0_2_2_7_79eb6af6-1ce4a2d-a3f9-cc6c81cd8b35=""
-                    class="text sd">REPARK
-                    Enterpriseへの<br>お問い合わせ</p>
-                  <a href="https://enterprise.REPARK.com/form" rel="noopener" target="_blank"
-                    data-s-69cb671e-6647608-a945-d391dcf2f4ee="" data-r-1_2_2_7_69cb671e-6647608-a945-d391dcf2f4ee=""
-                    class="text sd">お問い合わせはこちら</a>
                 </div>
               </div>
             </section>
