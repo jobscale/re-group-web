@@ -38,8 +38,7 @@
     .container.page-leave-active[data-v-1dfadbfa] {
       transition: .3s cubic-bezier(.4, .4, 0, 1)
     }
-  </style>
-  <style type="text/css">
+
     .notifications .notification-wrapper[data-v-0a8cdf28] {
       overflow: visible
     }
@@ -96,8 +95,11 @@
       transform: translateY(-60px);
       opacity: 0
     }
-  </style>
-  <style type="text/css">
+
+    .hide {
+      display: none;
+    }
+
     .spinner[data-v-efe212aa] {
       width: 16px;
       height: 16px;
@@ -3841,7 +3843,6 @@
 
     @media screen and (max-width: 480px) {
       .sd[data-s-f5641eca-b3b175e-988a-365eb40e8b0d] {
-        display: none;
         flex: none;
         width: 100%;
         max-width: 100%;
@@ -7928,10 +7929,9 @@
                   <div data-s-35972590-a022a56-bb56-9c51994b0083="" class="sd">
                     <p data-s3500736-0621f88-a196-306ae7fe9e0b="" data-r-0_1_3_2_6_43500736-0621f88-a196-306ae7fe9e0b=""
                       class="text sd">
-                      ITサービス事業 --CTIシステム開発・運用・販売<br>
-                      アウトソーシング支援事業 --業務請負・企業支援事業<br>
-                      資産再生事業 --中古資産再生・土地活用運営<br>
-                      Web デザイン制作事業 --ブランド開発・商品開発・運営指導
+                      ITサービス事業<br>
+                      アウトソーシング支援事業<br>
+                      資産再生事業
                     </p>
                     <div data-s-5e9ed65c483aa7-8b91-27e065f3b048="" class="sd"></div>
                   </div>
@@ -7944,7 +7944,27 @@
                   </div>
                   <div data-s-f5641eca-b3b175e-988a-365eb40e8b0d="" class="sd">
                     <p data-s-3dd30c410a3e59-9079-2e3ca4965aaf="" data-r-0_1_4_2_6_3dd30c410a3e59-9079-2e3ca4965aaf=""
-                      class="text sd">CEO（Chief Executive Officer）<img src="wp-content/themes/docs/ceo.png"></p>
+                      class="text sd">CEO（Chief Executive Officer）
+                      <span class="hide">o</span>
+                      <span>S</span>
+                      <span class="hide">o</span>
+                      <span>u</span>
+                      <span class="hide">o</span>
+                      <span>m</span>
+                      <span class="hide">o</span>
+                      <span>i</span>
+                      <span class="hide">o</span>
+                      <span>&nbsp;</span>
+                      <span class="hide">o</span>
+                      <span>Y</span>
+                      <span class="hide">o</span>
+                      <span>u</span>
+                      <span class="hide">o</span>
+                      <span>y</span>
+                      <span class="hide">o</span>
+                      <span>a</span>
+                      <span class="hide">o</span>
+                    </p>
                     <div data-s-a45c1889-1d93212-98a8-28db113c0e45="" class="sd"></div>
                   </div>
                 </div>
