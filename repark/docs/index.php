@@ -12,9 +12,9 @@
   <meta data-n-head="ssr" data-hid="ogSiteName" property="og:site_name" content="リパーク株式会社 / REPARK, Inc.">
   <meta data-n-head="ssr" data-hid="ogTitle" property="og:title" content="リパーク株式会社 / REPARK, Inc.">
   <meta data-n-head="ssr" data-hid="ogDescription" property="og:description"
-    content="ITサービス事業--CTIシステム開発・運用・販売、アウトソーシング支援事業--業務請負・企業支援事業、資産再生事業--中古資産再生・土地活用運営、Web デザイン制作事業--ブランド開発・商品開発・運営指導">
+    content="ITサービス事業--CTIシステム開発・運用・販売、アウトソーシング支援事業--業務請負・企業支援事業、資産再生事業--中古資産再生・土地活用運営">
   <meta data-n-head="ssr" data-hid="description" name="description"
-    content="ITサービス事業--CTIシステム開発・運用・販売、アウトソーシング支援事業--業務請負・企業支援事業、資産再生事業--中古資産再生・土地活用運営、Web デザイン制作事業--ブランド開発・商品開発・運営指導">
+    content="ITサービス事業--CTIシステム開発・運用・販売、アウトソーシング支援事業--業務請負・企業支援事業、資産再生事業--中古資産再生・土地活用運営">
   <meta data-n-head="ssr" data-hid="appleMobileWebAppTitle" name="apple-mobile-web-app-title"
     content="リパーク株式会社 / REPARK, Inc.">
   <link data-n-head="ssr"
@@ -73,7 +73,7 @@
       flex: 1;
       letter-spacing: 0;
       line-height: 1.2;
-      font-size: 14px;
+      font-size: 9px;
       white-space: pre-line
     }
 
@@ -1122,7 +1122,7 @@
     @media screen and (max-width: 480px) {
       .sd[data-s-cc8e50a8-73bb663-99dd-f6b296a07557] {
         font-family: 'ヒラギノ角ゴ W6 JIS2004';
-        font-size: 28px;
+        font-size: 25px;
       }
     }
 
@@ -1465,7 +1465,7 @@
     .sd[data-s-58659c92d4bbc9-92c4-c59842d1c509] {
       color: #222222;
       font-family: Montserrat;
-      font-size: 50px;
+      font-size: 28px;
       font-weight: 800;
       height: auto;
       line-height: 1.5;
@@ -1535,7 +1535,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 34px;
+      font-size: 18px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1550,7 +1550,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -1597,7 +1597,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1612,7 +1612,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1627,7 +1627,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -1674,7 +1674,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1689,7 +1689,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: 45px;
       line-height: 1.4;
@@ -1704,7 +1704,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -1752,7 +1752,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1767,7 +1767,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1781,7 +1781,7 @@
     .sd[data-s-e8d5b366-8c28141-bc58-d45513357203] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -1828,7 +1828,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1843,7 +1843,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1858,7 +1858,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -1905,7 +1905,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1920,7 +1920,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -1935,7 +1935,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -1986,7 +1986,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2001,7 +2001,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2016,7 +2016,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -2067,7 +2067,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2091,7 +2091,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: 45px;
       line-height: 1.4;
@@ -2122,7 +2122,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -2170,7 +2170,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2185,7 +2185,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2199,7 +2199,7 @@
     .sd[data-s-810a21217de9b7-88ed-b7c59b9e6386] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -2250,7 +2250,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2265,7 +2265,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2280,7 +2280,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -2327,7 +2327,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2342,7 +2342,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2357,7 +2357,7 @@
     .sd[data-s-bb7b939d-6778171-b950-82aa08553828] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -2408,7 +2408,7 @@
       color: #333;
       flex: none;
       font-family: Montserrat;
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2423,7 +2423,7 @@
     .sd[data-s-89bf694e-ce9ffbc-8379e24ab60faff] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -2471,7 +2471,7 @@
     .sd[data-s-f703874a-612ee9d-b55d-17dd272e00b9] {
       color: #222222;
       font-family: Montserrat;
-      font-size: 50px;
+      font-size: 28px;
       font-weight: 800;
       height: auto;
       line-height: 1.5;
@@ -2603,7 +2603,7 @@
     .sd[data-s-1c8e03ee-502ef28-8043-9137b618766d] {
       color: #333333;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 20px;
+      font-size: 9px;
       font-weight: 900;
       line-height: 1.5;
       margin: 0px 0px 10px 0px;
@@ -2617,7 +2617,7 @@
 
     @media screen and (max-width: 480px) {
       .sd[data-s-1c8e03ee-502ef28-8043-9137b618766d] {
-        font-size: 14px;
+        font-size: 11px;
       }
     }
 
@@ -2654,7 +2654,7 @@
       color: #333;
       display: none;
       font-family: Montserrat;
-      font-size: 20px;
+      font-size: 9px;
       font-weight: 700;
       height: auto;
       line-height: 1.4;
@@ -2696,7 +2696,7 @@
     .sd[data-s-fe724839-a477f5c-a8c2-b67394572322] {
       color: #222222;
       font-family: Montserrat;
-      font-size: 50px;
+      font-size: 28px;
       font-weight: 800;
       height: auto;
       line-height: 1.5;
@@ -2800,7 +2800,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 32px;
+      font-size: 19px;
       font-weight: 400;
       height: auto;
       line-height: 1.5;
@@ -2813,7 +2813,7 @@
 
     @media screen and (max-width: 480px) {
       .sd[data-s-79a9ac07-793270f-a1df-0298676d418c] {
-        font-size: 28px;
+        font-size: 17px;
       }
     }
 
@@ -2821,7 +2821,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W3 JIS2004';
-      font-size: 20px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.5;
@@ -2853,7 +2853,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 20px;
+      font-size: 9px;
       font-weight: 700;
       height: 32px;
       line-height: 1.4;
@@ -2883,7 +2883,7 @@
     .sd[data-s-04c5dd03-1ff2fba-999a-22c913d26895] {
       color: #222222;
       font-family: Montserrat;
-      font-size: 50px;
+      font-size: 28px;
       font-weight: 800;
       height: auto;
       line-height: 1.5;
@@ -3164,7 +3164,7 @@
     .sd[data-s-099dccd5-a9a744d-879b41bbda4762c] {
       color: #222222;
       font-family: Montserrat;
-      font-size: 50px;
+      font-size: 28px;
       font-weight: 800;
       height: auto;
       line-height: 1.5;
@@ -3256,7 +3256,7 @@
     .sd[data-s-826a7468-ac1d764-95f8-c22d959c5512] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3312,7 +3312,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3373,7 +3373,7 @@
     .sd[data-s-5f3ad183a5527f-81ca-5534ae28a090] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3430,7 +3430,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3498,7 +3498,7 @@
     .sd[data-s-394369aa-102b7d9-85dc-723f51e1459e] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3565,7 +3565,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3595,7 +3595,7 @@
       border-top: 1px solid #333333;
       color: #333333;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 600;
       height: auto;
       line-height: 1.4;
@@ -3661,11 +3661,11 @@
     .sd[data-s-d1d1df96-c8617f0-b243-773b5f86f51c] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
-      margin: 48px 0px 8px 10px;
+      margin: 87px 0px 8px 10px;
       padding: 0px 0px 0px 0px;
       text-align: center;
       width: auto;
@@ -3718,7 +3718,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3796,7 +3796,7 @@
     .sd[data-s-b2bd7b43134cd0-b442-0ff54775ca9c] {
       color: #333;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3853,7 +3853,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3878,7 +3878,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3903,7 +3903,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3928,7 +3928,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3953,7 +3953,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -3978,7 +3978,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4003,7 +4003,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4028,7 +4028,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4053,7 +4053,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4113,7 +4113,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4139,7 +4139,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4165,7 +4165,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4191,7 +4191,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4217,7 +4217,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4243,7 +4243,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4269,7 +4269,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4297,7 +4297,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4323,7 +4323,7 @@
       color: #333;
       flex: none;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -4368,7 +4368,7 @@
     .sd[data-s-3eb0e11d-6321444-9d15-2d7d8f89189c] {
       color: #FFFFFF;
       font-family: Montserrat;
-      font-size: 50px;
+      font-size: 28px;
       font-weight: 800;
       height: auto;
       line-height: 1.5;
@@ -4702,7 +4702,7 @@
       border-radius: 0;
       color: #FFFFFF;
       font-family: 'ヒラギノ角ゴ W6 JIS2004';
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       letter-spacing: 0em;
       line-height: 1.4;
@@ -4784,7 +4784,7 @@
     .sd[data-s-ef392ffc-7bf8524-a73d-0826b1086802] {
       bottom: 0px;
       color: #bdbdbd;
-      font-size: 20px;
+      font-size: 9px;
       height: auto;
       left: auto;
       margin: 0 0 0 0;
@@ -5855,7 +5855,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -5881,7 +5881,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -5907,7 +5907,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -5934,7 +5934,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -5960,7 +5960,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -6010,7 +6010,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6036,7 +6036,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6062,7 +6062,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6088,7 +6088,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6114,7 +6114,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6140,7 +6140,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6166,7 +6166,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6192,7 +6192,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6218,7 +6218,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -6416,7 +6416,7 @@
     .sd[data-s-eb5306ed1d08d5-bfed-a945e5e00d41] {
       color: #FFFFFF;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7115,7 +7115,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -7141,7 +7141,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -7169,7 +7169,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -7195,7 +7195,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -7221,7 +7221,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 700;
       height: 20px;
       line-height: 1.4;
@@ -7273,7 +7273,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7299,7 +7299,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7325,7 +7325,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7351,7 +7351,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -7377,7 +7377,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7403,7 +7403,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7429,7 +7429,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7455,7 +7455,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7481,7 +7481,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7507,7 +7507,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7533,7 +7533,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: auto;
       line-height: 1.4;
@@ -7560,7 +7560,7 @@
       color: #FFFFFF;
       flex: none;
       font-family: Montserrat;
-      font-size: 14px;
+      font-size: 9px;
       font-weight: 400;
       height: 20px;
       line-height: 1.4;
@@ -7790,7 +7790,13 @@
       background-size: 100% auto;
       height: 29rem;
     }
-  </style>
+
+    @media screen and (max-width: 800px) {
+      #hero {
+        background-size: auto 100%;
+      }
+    }
+</style>
 </head>
 
 <body>
@@ -7854,34 +7860,27 @@
                 class="text sd">Services</p>
               <div data-s-d8061354c8bbfa-bde7-a8d1600a0bba="" class="sd"></div>
               <div data-s-032f3c25-543ed83-84db-196f8d017824="" class="sd">
-                <span href="https://REPARK.com/" rel="noopener" target="_blank"
+                <span rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">ITサービス事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">CTIシステム開発・運用・販売</p>
                 </span>
-                <span href="https://REPARK.com/" rel="noopener" target="_blank"
+                <span rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">アウトソーシング<br>支援事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">業務請負・企業支援事業</p>
                 </span>
-                <span href="https://REPARK.com/" rel="noopener" target="_blank"
+                <span rel="noopener" target="_blank"
                   data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
                   <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
                     class="text sd">資産再生事業</p>
                   <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
                     class="text sd">中古資産再生・土地活用運営</p>
                 </span>
-                <span href="https://REPARK.com/" rel="noopener" target="_blank"
-                  data-s-65977b8e-2e260b1-865e-9462a732e201="" class="sd">
-                  <p data-s-afe141f3-2df8ec3-9334-e4365ae212a6="" data-r-0_0_2_2_afe141f3-2df8ec3-9334-e4365ae212a6=""
-                    class="text sd">Web デザイン<br>制作事業</p>
-                  <p data-s-becd4932-7aa2955-9cd7-5cb785376ca6="" data-r-1_0_2_2_becd4932-7aa2955-9cd7-5cb785376ca6=""
-                    class="text sd">ブランド開発・商品開発・運営指導</p>
-              </span>
               </div>
             </section>
 
@@ -7923,7 +7922,7 @@
                 <div data-s-b63f471e-293fae9-9b3c-1a8f14366f91="" class="sd">
                   <div data-s-049c4d17-8a150b5-a479-77b0db37e3b5="" class="sd">
                     <p data-s-d1d1df96-c8617f0-b243-773b5f86f51c=""
-                      data-r-0_0_3_2_6_d1d1df96-c8617f0-b243-773b5f86f51c="" class="text sd">事業内容<br><br><br><br></p>
+                      data-r-0_0_3_2_6_d1d1df96-c8617f0-b243-773b5f86f51c="" class="text sd">事業内容</p>
                     <div data-s-6454dd78-e91607f-a7aa-d96fee5babb6="" class="sd"></div>
                   </div>
                   <div data-s-35972590-a022a56-bb56-9c51994b0083="" class="sd">
